@@ -519,8 +519,8 @@ header .task-header h2 {
 	display: inline-block;
 	padding-top: 2px;
 	position: absolute;
-	top: 20%;
-	right: 50%;
+	top: 40vh;
+	left: 40vw;
 	z-index: 99;
 	font-size: 36px;
 }
