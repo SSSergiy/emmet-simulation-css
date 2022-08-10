@@ -568,3 +568,8 @@ code.language-markup {
 	padding-left: 14px;
 	font-size: 30px;
 }
+.box:after {
+	bottom: 7px;
+	top: initial;
+	font-size: 0;
+}
