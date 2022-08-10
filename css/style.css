@@ -556,3 +556,15 @@ code.language-markup {
 	white-space: pre-wrap;
 	font-size: 0px;
 }
+.task-form .task-answer {
+	border: 2px solid #37c799;
+	border-radius: 6px;
+	display: block;
+	width: 100%;
+	font-size: 17px;
+	color: #434343;
+	outline: none;
+	height: 50px;
+	padding-left: 14px;
+	font-size: 30px;
+}
