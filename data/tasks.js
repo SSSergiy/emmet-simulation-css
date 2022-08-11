@@ -1564,7 +1564,7 @@ var tasks = {
     'task-example': 'op'
   },
   313: {
-    'task-title': 'content:' | ';',
+    'task-title': 'content:(  );',
     'task-theory': 'cnt',
     'task-example': 'cnt'
   },
